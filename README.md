@@ -1,18 +1,16 @@
-# Java Full-Stack Hotel Booking Application
+# Hotel Booking Application - Back-End
 
-## Project Overview
-This Java full-stack application is a comprehensive hotel booking platform, utilizing Spring Boot and ReactJS. It enables users to view, filter, and book hotel rooms, while providing an admin interface for room management.
+## Overview
+This is the back-end part of the Java full-stack hotel booking application. Built using Spring Boot, it handles data management, authentication, and server-side logic.
 
-### Key Features:
-- Room viewing with pagination and filtering options.
-- Dynamic pricing based on room type and booking duration.
-- User authentication using JWT.
-- Admin-exclusive features for managing room details.
-- ReactJS components for a responsive front-end.
-- Comprehensive backend built with Spring Boot.
+## Key Features:
+- RESTful API endpoints for room management.
+- JWT-based user authentication and authorization.
+- Dynamic pricing and booking logic.
+- Admin functionalities for room management.
 
-## Technologies Used
-- **Front-End:** ReactJS
-- **Back-End:** Spring Boot, Spring Security
-- **Database:** MySQL
-- **Others:** JWT for authentication, Maven for dependency management
+## Technology Stack
+- Spring Boot
+- Spring Security
+- [Your Database Technology]
+- Maven for dependency management
