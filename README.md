@@ -12,5 +12,5 @@ This is the back-end part of the Java full-stack hotel booking application. Buil
 ## Technology Stack
 - Spring Boot
 - Spring Security
-- [Your Database Technology]
+- MySQL RDBMS
 - Maven for dependency management
